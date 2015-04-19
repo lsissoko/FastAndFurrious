@@ -7,7 +7,7 @@ Georgia Tech CS 2261 Project
 <img src="https://dl.dropboxusercontent.com/u/11066635/Hosting/furrious-screen-2.PNG" /> &nbsp;
 
 ###Setup
-GBA dev environment setup files: [GBASetup.rar (66.8 MB)](https://dl.dropboxusercontent.com/u/11066635/GBASetup.rar)
+Follow the instructions in the GBASetup folder.
 
 ###Keyboard to GBA mapping
 - __Enter__: START button
