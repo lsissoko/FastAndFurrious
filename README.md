@@ -3,8 +3,8 @@ Fast And Furrious
 
 Georgia Tech CS 2261 Project
 
-![](https://dl.dropboxusercontent.com/u/11066635/Hosting/furrious-screen-1.png)
-![](https://dl.dropboxusercontent.com/u/11066635/Hosting/furrious-screen-2.png)
+![](https://dl.dropboxusercontent.com/u/11066635/Hosting/games/fast_and_furrious/furrious-screen-1.png)
+![](https://dl.dropboxusercontent.com/u/11066635/Hosting/games/fast_and_furrious/furrious-screen-2.png)
 
 ###Dev Environment Setup
 Follow the [instructions (PDF)](https://github.com/lsissoko/FastAndFurrious/blob/master/GBASetup/NetBeans_GBA_User_Guide.pdf) in the GBASetup directory.
